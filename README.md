@@ -23,5 +23,3 @@ Hi, I am Jerush 🙋‍♂️<br><br>👨‍💻 I am an undergraduate pursuing 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jerushimanto&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
