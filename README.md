@@ -22,4 +22,5 @@ Hi, I am Jerush 🙋‍♂️<br><br>👨‍💻 I am an undergraduate pursuing 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerushimanto&bg_color=000000&color=c4c4c4&line=9a989a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jerush_imanto?theme=dark&font=Dekko&ext=contest)
+---
 [![](https://visitcount.itsvg.in/api?id=jerushimanto&icon=0&color=12)](https://visitcount.itsvg.in)
