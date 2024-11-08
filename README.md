@@ -15,11 +15,10 @@ Hi, I am Jerush 🙋‍♂️<br><br>👨‍💻 I am an undergraduate pursuing 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jerushimanto&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jerushimanto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerushimanto&bg_color=000000&color=c4c4c4&line=9a989a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 [![](https://visitcount.itsvg.in/api?id=jerushimanto&icon=0&color=12)](https://visitcount.itsvg.in)
