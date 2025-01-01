@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Jerush 🙋‍♂️<br><br>👨‍💻 I am an undergraduate pursuing a Bachelor's in Computer Science Engineering. 🎓<br>🌱 I am currently working in Python for Development and Machine Learning <br>🔭 I find my technical interests in Backend development, Competitive Coding and Machine Learning.<br>👍 I am interested in collaborating over code with new people and enjoy working in teams.<br>🖋️ I love Mathematics 🔢 and problem solving 🧩 
+Hi, I am Jerush 🙋‍♂️<br><br>👨‍💻 I am an undergraduate pursuing a Bachelor's in Computer Science Engineering. 🎓<br>🌱 I am currently working in Spring Boot and React <br>🔭 I find my technical interests in Backend development, Competitive Coding and Machine Learning.<br>👍 I am interested in collaborating over code with new people and enjoy working in teams.<br>🖋️ I love Mathematics 🔢 and problem solving 🧩 
 
 
 ## 🌐 Socials:
